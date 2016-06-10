@@ -14,9 +14,11 @@ class HomePage extends React.Component{
 					<p className="bio">Full stack JS & PHP Developer in Ho Chi Minh City</p>
 				</div>
 				<div className="social-link">
+					<span className="portflolio"><a href="http://sangnguyen.info" target="_blank"><i className="fa fa-user-secret" aria-hidden="true"></i> Portflolio</a></span>
+					<span className="rss"><a href="http://sangplus.com" target="_blank"><i className="fa fa-rss" aria-hidden="true"></i> Blog</a></span>
 					<span className="github"><a href="https://github.com/sangnguyenplus" target="_blank"><i className="fa fa-github" aria-hidden="true"></i> Github</a></span>
 					<span className="twitter"><a href="https://twitter.com/sangnguyenplus" target="_blank"><i className="fa fa-twitter" aria-hidden="true"></i> Twitter</a></span>
-					<span className="facebook"><a href="https://facebook.com/sangnguyen2603" target="_blank"><i className="fa fa-facebook" aria-hidden="true"></i> Facebook</a></span>
+					<span className="facebook"><a href="https://facebook.com/sangnguyen2603" target="_blank"><i className="fa fa-facebook-square" aria-hidden="true"></i> Facebook</a></span>
 				</div>
 			</div>
 		);

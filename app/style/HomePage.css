@@ -1,5 +1,5 @@
 .home-page{
-	max-width: 380px;
+	max-width: 400px;
     margin: 0 auto;
     text-align: center;
     margin-top: 100px;
@@ -18,7 +18,7 @@
     margin: 0px;
     padding: 10px 0px;
 }
-   
+
 .home-page .description .name{
 	font-size: 1.1em;
     font-weight: bold;
