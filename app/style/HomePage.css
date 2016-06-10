@@ -1,0 +1,51 @@
+.home-page{
+	max-width: 380px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.home-page .avatar img{
+	border-radius: 50%;
+    width: 150px;
+    height: auto;
+    background-color: #fafafa;
+    border: 1px solid #dbdbdb;
+}
+
+.home-page .description p{
+    margin: 0px;
+    padding: 10px 0px;
+}
+   
+.home-page .description .name{
+	font-size: 1.1em;
+    font-weight: bold;
+}
+
+.home-page .description .email{
+    padding: 0px;
+}
+
+.home-page .description .bio{
+	font-size: inherit;
+    font-weight: 500;
+}
+
+.home-page .social-link{
+    padding: 20px 0px;
+}
+
+.home-page .social-link span{
+	padding: 0px 10px;
+}
+
+.home-page .social-link span a{
+	color: #262626;
+	text-decoration: none;
+}
+
+.home-page .social-link span a:hover{
+	cursor: pointer;
+}
